@@ -1,0 +1,20 @@
+#logout {
+    background-image: linear-gradient(to right top, #ff0000, #ff6464, #fc9696, #fabfbf,#f8d9d9, #ffffff);
+}
+
+body
+{
+background-image: linear-gradient(to right top, #0004ff, #4f5bff, #7a7cfd, #ffb36c,#fac176, #ffd6a0 );
+background-repeat: no-repeat;
+}
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+.color_white
+{
+	color: white
+}
